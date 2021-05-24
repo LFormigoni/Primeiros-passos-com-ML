@@ -9,4 +9,9 @@ Em busca de mudanças e novos desafíos resolvi dar inicio ao mestrado e decidi 
 Embora tenha tido contato com redes durante a graduação nunca cheguei a desenvolver nada por conta e esse será um desafio que estou disposto a encarar.
 
 
-Todos os repositórios serão abertos e qualquer critica ou sugestão será bem vinda
+Todos os repositórios serão abertos e qualquer critica ou sugestão será bem vinda.
+
+
+Utilizarei uma série de materiais e blogs para basear meus modelos.
+
+A ideia não é copiar o código de nenhum autor mas sim compreender a lógica por trás de seus códigos e descreve-los de forma que eu, particularmente, consiga aprender
